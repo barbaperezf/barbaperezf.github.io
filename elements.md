@@ -34,12 +34,6 @@ nav-menu: true
 			          </p>
 			          <p>
 			        Creo que es difícil resumir a una persona en pocas palabras. Sin embargo, este es un pequeño vistazo de mí, un nerd apasionado por aprender, crecer y explorar, dentro y fuera de la escuela.
-			</div>
-		</div>
-	</div>
-</section>
-
-</div>
 
 </div>
 </section>
