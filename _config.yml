@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: # the subpath of your site, e.g. /blog
-url: barbaperezf.github.io # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+title: "Fernando Barba Pérez"
+subtitle: "Student"
+email: "barbaperezf@gmail.com"
+description: "Actuary and Data Science student at ITAM, Mexico City.<br />Passionate chef, boardgamer and volleyball player.<br /><br />CV: <a href='https://docs.google.com/document/d/1pJnTZruWpworaEEDDsJvPphk3CGkBPgT/edit?usp=sharing&ouid=109856916300184454189&rtpof=true&sd=true' target='_blank'>View CV</a>"
+baseurl: "" # Leave empty if deployed at the root
+url: "https://barbaperezf.github.io"
+author: "Fernando Barba Pérez"
+street_address: ""
+city: "Mexico City"
+state: ""
+zip_code: ""
+country: "Mexico"
+phone: "(+52) 55 7688 8033"
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,14 +22,14 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
-  GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
-  Facebook:
-  Slack:
+  GitHub: "https://github.com/barbaperezf"
+  GitLab: ""
+  Google-Plus: ""
+  Instagram: ""
+  LinkedIn: ""
+  Twitter: ""
+  Facebook: ""
+  Slack: ""
 
 # build settings
 markdown: kramdown
