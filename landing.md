@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Finanzas estratégicas, becario (2024)</h2>
 		</header>
-		<p>MDPartners.</p>
+		<p>Fui por un semestre becario de finanzas estretégicas en la consultora financiera MD Partners. Ahí desarrollé habilidades de Excel, dominio de estados financieos, PowerBI, colaboración, comunicación activa, trato con el ciente y trabajar bajo presión. </p>
 	</div>
 </section>
 
