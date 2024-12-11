@@ -15,7 +15,12 @@ nav-menu: true
 <h3>Voleibol</h3>
 <p>Toda mi vida he sido una persona muy activa, pero fue hace poco más de tres años cuando descubrí la magia del voleibol. Desde que comencé a entrenar, me enamoré del aspecto colaborativo del deporte. En el voleibol, no importa cuán hábil seas individualmente; el éxito depende completamente de un equipo bien coordinado. A lo largo de estos años, he formado algunas de mis mejores amistades jugando, fortaleciendo lazos que van más allá de la cancha.<p>
 <p>He tenido el honor de representar a la Ciudad de México en torneos nacionales durante dos años consecutivos, una experiencia que me llenó de orgullo y aprendizaje. Además, este año mi equipo participó en el torneo de segunda fuerza a nivel nacional, logrando posicionarnos entre los mejores ocho equipos del país. Entrenar constantemente me ha enseñado que el progreso requiere tanto disciplina como perseverancia, ya que siempre habrá días buenos y malos. Aunque he enfrentado frustraciones, lesiones y derrotas, el amor por este deporte sigue intacto. Jugar, especialmente con mis hermanos y amigos, es una de las cosas que más disfruto en la vida. </p>
-<h3>Juegos de mesa</h3>
-<p>JUEGUITOS</p>
-<h3>Otros</h3>
-<p>Cocinar, música, viajar, naturaleza, amigos, familia</p>
+<h3>Otros intereses</h3>
+    <ul>
+      <li>Jugar juegos de mesa</li>
+      <li>Cocinar</li>
+      <li>Escuchar música</li>
+      <li>Viajar</li>
+      <li>Esatr en la naturaleza</li>
+      <li>Disfrutar a mis amigos y familia</li>
+    </ul>
