@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Semblanza Personal
-image: assets/images/pic01.jpg
+image: assets/images/fotoFer.jpg
+description: Yo en pocas palabras
 nav-menu: true
 ---
 
@@ -17,7 +18,7 @@ nav-menu: true
 
 		<div class="row">
 			<div class="6u 12u$(small)">
-				<img src="assets/images/Batería.jpg" alt="Foto de Diego" style="width: 100%; height: auto;">
+				<img src="assets/images/fotoFer.jpg" alt="Foto de Fer" style="width: 100%; height: auto;">
 			</div>
 			<div class="6u$ 12u$(small)">
 				 <p>
@@ -30,12 +31,7 @@ nav-menu: true
             			Adicionalmente, lidero y coordino un equipo de 28 estudiantes para brindar apoyo a una comunidad marginada al norte de Puebla, el cual desde que entré, ha habido un incremento de participación de más de 250%. Al mismo tiempo, doy clases de economía a otros estudiantes y he dado clases de matemáticas básicas a niños de escasos recursos. 
 	       			</p>
 			          <p>
-			        También amo cocinar y probar recetas nuevas, en especial si es con mis amigos o con mi madre. Soy fanático de los juegos de mesa, en especial aquellos que mezclan la interacción social con estrategia. Me encanta viajar, ya sea con amigos, familia o solo con mis hermanos. Adoro caminar, tanto así que hice el Camino de Santiago el año pasado. 
+			        También amo cocinar y probar recetas nuevas, en especial si es con mis amigos o con mi madre. Soy fanático de los juegos de mesa, en especial aquellos que mezclan la interacción social con estrategia como Twilight Imperium, Spirit Island, Root, Pandemic o Gloomhaven. Me encanta viajar, ya sea con amigos, familia o solo con mis hermanos. Adoro caminar, tanto así que hice el Camino de Santiago el año pasado. 
 			          </p>
 			          <p>
 			        Creo que es difícil resumir a una persona en pocas palabras. Sin embargo, este es un pequeño vistazo de mí, un nerd apasionado por aprender, crecer y explorar, dentro y fuera de la escuela.
-
-</div>
-</section>
-
-</div>
