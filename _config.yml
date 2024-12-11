@@ -1,16 +1,16 @@
 # site settings
 title: "Fernando Barba Pérez"
-subtitle: "Student"
+subtitle: "Estudiante Universitario"
 email: "barbaperezf@gmail.com"
-description: "Actuary and Data Science student at ITAM, Mexico City.<br /><br />Passionate chef, boardgamer and volleyball player.<br /><br /> <a href='https://docs.google.com/document/d/1pJnTZruWpworaEEDDsJvPphk3CGkBPgT/edit?usp=sharing&ouid=109856916300184454189&rtpof=true&sd=true' target='_blank'> CV</a>"
+description: "Estudiante de Actuaria y Ciencia de Datos en el ITAM.<br /><br />Apasionado chef, jugador de voleibol y de juegos de mesa.<br /><br /> <a href='https://drive.google.com/file/d/1ayOpkrOzdC3_8igy63MSMx9OzgaLOC5G/view?usp=sharing' target='_blank'> CV</a>"
 baseurl: "" # Leave empty if deployed at the root
 url: "https://barbaperezf.github.io"
 author: "Fernando Barba Pérez"
 street_address: ""
-city: "Mexico City"
+city: ""
 state: ""
 zip_code: ""
-country: "Mexico"
+country: ""
 phone: "(+52) 55 7688 8033"
 
 # homepage tiles
@@ -24,7 +24,7 @@ tiles-count: 6
 socials:
   GitHub: "https://github.com/barbaperezf"
   GitLab: ""
-  Google-Plus: ""
+  Google-Plus: "barbaperezf@gmail.com"
   Instagram: ""
   LinkedIn: ""
   Twitter: ""
