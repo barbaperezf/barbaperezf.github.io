@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Semblanza Personal
-image: assets/images/pic01.jpg
+image: assets/images/fotoFer.jpg
+description: Yo en pocas palabras
 nav-menu: true
 ---
 
@@ -17,7 +18,7 @@ nav-menu: true
 
 		<div class="row">
 			<div class="6u 12u$(small)">
-				<img src="assets/images/Foto Fer.jpg" alt="Foto de Fer" style="width: 100%; height: auto;">
+				<img src="assets/images/fotoFer.jpg" alt="Foto de Fer" style="width: 100%; height: auto;">
 			</div>
 			<div class="6u$ 12u$(small)">
 				 <p>
@@ -34,8 +35,3 @@ nav-menu: true
 			          </p>
 			          <p>
 			        Creo que es difícil resumir a una persona en pocas palabras. Sin embargo, este es un pequeño vistazo de mí, un nerd apasionado por aprender, crecer y explorar, dentro y fuera de la escuela.
-
-</div>
-</section>
-
-</div>
